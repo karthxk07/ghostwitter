@@ -1,0 +1,1 @@
+chrome@147.0.7699.0 /home/karthik/Projects/ghostwitter/chrome/linux-147.0.7699.0/chrome-linux64/chrome
